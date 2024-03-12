@@ -1,0 +1,14 @@
+/* In your App.css or any other global CSS file */
+
+.flex {
+    display: flex;
+  }
+  
+  .sidenav {
+    width: 20vw;
+  }
+  
+  .content {
+    flex: 1; /* Takes up remaining space */
+  }
+  
